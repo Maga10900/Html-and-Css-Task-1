@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-color: bisque;
+    height: 50px;
+    font-size: 24px;
+}
+
+ul
+{
+    display: flex;
+    margin-left: 500px;
+    list-style: none;
+}
+
+ul li
+{
+    margin-right: 20px;
+    margin-top: -24px;
+}
+
+
+._div
+{
+    background-color: aquamarine;
+    display: flex;
+    
+}
+
+
+article
+{
+    width: 500px;
+    border: 2px solid black;
+    margin-right: 400px;
+}
